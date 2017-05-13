@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features": [
+{ "type": "Feature", "properties": { "id": "1948c0d7-2879-426a-b087-30faa9ba57b3", "creator": "3木" }, "geometry": { "type": "Point", "coordinates": [ 139.815034559921145, 35.734570013855581 ] } },
+{ "type": "Feature", "properties": { "id": "ffcfd207-ebd5-48b5-87fe-738ebcd4e63e", "creator": "菊千代" }, "geometry": { "type": "Point", "coordinates": [ 139.744568074721087, 35.717548277121857 ] } },
+{ "type": "Feature", "properties": { "id": "25aa79eb-e6e0-4645-8ee6-d847b5d2482a", "creator": "灯" }, "geometry": { "type": "Point", "coordinates": [ 139.763014103803613, 35.700415136395101 ] } },
+{ "type": "Feature", "properties": { "id": "2dbefbcf-d6c1-4163-8b55-864653a109ae", "creator": "タケノコ" }, "geometry": { "type": "Point", "coordinates": [ 139.78305259582848, 35.681984818785203 ] } },
+{ "type": "Feature", "properties": { "id": "f0f3d0eb-40ee-47d5-9d5f-471360e33af6", "creator": "綺月るり" }, "geometry": { "type": "Point", "coordinates": [ 139.76181975659685, 35.645434934876391 ] } },
+{ "type": "Feature", "properties": { "id": "e88f3034-bd38-4c85-b5c6-4592730f91bc", "creator": "うん仔" }, "geometry": { "type": "Point", "coordinates": [ 139.704756501161711, 35.650611156446153 ] } },
+{ "type": "Feature", "properties": { "id": "9bb8aca9-91b4-4f11-aa25-85efafd65b9e", "creator": "さつま揚げ" }, "geometry": { "type": "Point", "coordinates": [ 139.724927698431799, 35.625266040183206 ] } },
+{ "type": "Feature", "properties": { "id": "e16cf2f7-e42e-41ea-a493-0069ebb45b3e", "creator": "一柳眞木" }, "geometry": { "type": "Point", "coordinates": [ 139.653797687005749, 35.71733278878876 ] } },
+{ "type": "Feature", "properties": { "id": "7786de0e-fd53-4e77-8844-26ce6328798d", "creator": "北尾タキ" }, "geometry": { "type": "Point", "coordinates": [ 139.711524468666852, 35.740602161388175 ] } },
+{ "type": "Feature", "properties": { "id": "79722d92-ddd4-4f81-86c3-4a881d4e5154", "creator": "森島明子" }, "geometry": { "type": "Point", "coordinates": [ 139.778673322736978, 35.663765876656797 ] } },
+{ "type": "Feature", "properties": { "id": "68734212-aa5f-44c9-9405-a776665fa7d2", "creator": "鹿嵐" }, "geometry": { "type": "Point", "coordinates": [ 139.721211951566289, 35.664951851490983 ] } },
+{ "type": "Feature", "properties": { "id": "5bf39639-2362-47dd-9cbc-e51a66600b87", "creator": "竹宮ジン" }, "geometry": { "type": "Point", "coordinates": [ 139.690955155661186, 35.685649665568477 ] } },
+{ "type": "Feature", "properties": { "id": "36fc981a-33ee-47f0-ab72-f13b896ac5f7", "creator": "百乃モト" }, "geometry": { "type": "Point", "coordinates": [ 139.702898627729013, 35.703324797229662 ] } },
+{ "type": "Feature", "properties": { "id": "1b7facee-a00c-42c7-a652-dbcf92bf72c9", "creator": "奥たまむし" }, "geometry": { "type": "Point", "coordinates": [ 139.68286013570409, 35.729399237980985 ] } },
+{ "type": "Feature", "properties": { "id": "66d38e50-52c1-49ee-b923-2efd801f9187", "creator": "吉沢蛍" }, "geometry": { "type": "Point", "coordinates": [ 139.626194996004585, 35.729506965902523 ] } },
+{ "type": "Feature", "properties": { "id": "789eacf4-535f-4dcf-b6d3-a8c14f51082b", "creator": "西UKO" }, "geometry": { "type": "Point", "coordinates": [ 139.606156503979719, 35.532121214956916 ] } }
+]
+}

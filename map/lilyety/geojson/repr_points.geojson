@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "name": "千代田区", "code": "13101" }, "geometry": { "type": "Point", "coordinates": [ 139.754618827019243, 35.687612001544259 ] } },
+{ "type": "Feature", "properties": { "name": "中央区", "code": "13102" }, "geometry": { "type": "Point", "coordinates": [ 139.776967055266852, 35.672113768513988 ] } },
+{ "type": "Feature", "properties": { "name": "港区", "code": "13103" }, "geometry": { "type": "Point", "coordinates": [ 139.739274204722619, 35.652014602775303 ] } },
+{ "type": "Feature", "properties": { "name": "新宿区", "code": "13104" }, "geometry": { "type": "Point", "coordinates": [ 139.708870141960602, 35.701148927030474 ] } },
+{ "type": "Feature", "properties": { "name": "文京区", "code": "13105" }, "geometry": { "type": "Point", "coordinates": [ 139.747263968715345, 35.717475347718036 ] } },
+{ "type": "Feature", "properties": { "name": "台東区", "code": "13106" }, "geometry": { "type": "Point", "coordinates": [ 139.785960482688552, 35.715435458958659 ] } },
+{ "type": "Feature", "properties": { "name": "墨田区", "code": "13107" }, "geometry": { "type": "Point", "coordinates": [ 139.815534935651499, 35.712243234172583 ] } },
+{ "type": "Feature", "properties": { "name": "江東区", "code": "13108" }, "geometry": { "type": "Point", "coordinates": [ 139.815374805651857, 35.659950992746957 ] } },
+{ "type": "Feature", "properties": { "name": "品川区", "code": "13109" }, "geometry": { "type": "Point", "coordinates": [ 139.732830435303214, 35.609802346442059 ] } },
+{ "type": "Feature", "properties": { "name": "目黒区", "code": "13110" }, "geometry": { "type": "Point", "coordinates": [ 139.688192830303564, 35.629909371138368 ] } },
+{ "type": "Feature", "properties": { "name": "大田区", "code": "13111" }, "geometry": { "type": "Point", "coordinates": [ 139.730275984662967, 35.568721408370159 ] } },
+{ "type": "Feature", "properties": { "name": "世田谷区", "code": "13112" }, "geometry": { "type": "Point", "coordinates": [ 139.635053741095135, 35.639765440460735 ] } },
+{ "type": "Feature", "properties": { "name": "渋谷区", "code": "13113" }, "geometry": { "type": "Point", "coordinates": [ 139.696264511907117, 35.66791362993326 ] } },
+{ "type": "Feature", "properties": { "name": "中野区", "code": "13114" }, "geometry": { "type": "Point", "coordinates": [ 139.662407685957021, 35.710947397680975 ] } },
+{ "type": "Feature", "properties": { "name": "杉並区", "code": "13115" }, "geometry": { "type": "Point", "coordinates": [ 139.625342562850904, 35.696882567748638 ] } },
+{ "type": "Feature", "properties": { "name": "豊島区", "code": "13116" }, "geometry": { "type": "Point", "coordinates": [ 139.711664076724219, 35.731602851764656 ] } },
+{ "type": "Feature", "properties": { "name": "北区", "code": "13117" }, "geometry": { "type": "Point", "coordinates": [ 139.728845360767252, 35.765905909498812 ] } },
+{ "type": "Feature", "properties": { "name": "荒川区", "code": "13118" }, "geometry": { "type": "Point", "coordinates": [ 139.781352215303343, 35.739915844402219 ] } },
+{ "type": "Feature", "properties": { "name": "板橋区", "code": "13119" }, "geometry": { "type": "Point", "coordinates": [ 139.676436111100941, 35.77261613792021 ] } },
+{ "type": "Feature", "properties": { "name": "練馬区", "code": "13120" }, "geometry": { "type": "Point", "coordinates": [ 139.617657063823629, 35.747834790600947 ] } },
+{ "type": "Feature", "properties": { "name": "足立区", "code": "13121" }, "geometry": { "type": "Point", "coordinates": [ 139.795039585645185, 35.778790489521626 ] } },
+{ "type": "Feature", "properties": { "name": "葛飾区", "code": "13122" }, "geometry": { "type": "Point", "coordinates": [ 139.855704615976862, 35.75320061138121 ] } },
+{ "type": "Feature", "properties": { "name": "江戸川区", "code": "13123" }, "geometry": { "type": "Point", "coordinates": [ 139.875647753239662, 35.692138085859284 ] } },
+{ "type": "Feature", "properties": { "name": "横浜市", "code": "14101" }, "geometry": { "type": "Point", "coordinates": [ 139.577041448037022, 35.460161840878861 ] } }
+]
+}
