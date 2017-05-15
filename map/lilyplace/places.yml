@@ -1,0 +1,118 @@
+- product_id: 5ee0b97e-818f-4d4d-b921-1b6e2a89b6db
+  product_name: 白衣性恋愛症候群
+  places:
+  - id: c2fc8f97-8e6f-49e5-8bb1-b485d64ae664
+    name: 神庫駅
+    sources:
+    - url: http://www.kinakomochi.info/2012/02/blog-post_18.html
+      title: きなこもち: 白恋舞台訪問(鎌倉・由比ヶ浜)
+      last_visit: "2017-05-14"
+  - id: dfc4d8f2-a8c1-4ac8-b124-07564c14cc34
+    name: 百合ヶ浜海岸
+    sources:
+    - url: http://www.kinakomochi.info/2012/02/blog-post_18.html
+      title: きなこもち: 白恋舞台訪問(鎌倉・由比ヶ浜)
+      last_visit: "2017-05-14"
+  - id: 49e7b946-0b91-4b02-8e6e-ea1042311b16
+    name: ローソン
+    sources:
+    - url: http://www.kinakomochi.info/2012/02/blog-post_18.html
+      title: きなこもち: 白恋舞台訪問(鎌倉・由比ヶ浜)
+      last_visit: "2017-05-14"
+    - url: http://d.hatena.ne.jp/ichimi/20120716
+      title: 2012-07-16 - 日記
+      last_visit: "2017-05-14"
+  - id: a719f29a-b945-4ff5-9721-566f0ac88fc9
+    name: 通勤路
+    sources:
+    - url: http://hakuai.kogado.com/blog/1057/
+      title: 銭洗弁財天～神庫～聖蹟百合ヶ丘ツアー② | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+    - url: http://d.hatena.ne.jp/ichimi/20120716
+      title: 2012-07-16 - 日記
+      last_visit: "2017-05-14"
+
+- product_id: de498692-7717-4cc6-97c0-e083831f458f
+  product_name: 青い花 2
+  places:
+  - id: 4fb60198-e25f-4628-9c3a-295fb9c2c14b
+    name: 無心庵
+    sources:
+    - url: http://www7a.biglobe.ne.jp/~uso9000/travel/aoihana1-2.htm
+      title: 「青い花」舞台探訪～鎌倉編　その２～
+      last_visit: "2017-05-14"
+
+- product_id: 8c06ef36-e5d2-4d43-a320-4d6ba6aa5d25
+  product_name: 青い花 1
+  places:
+  - id: 2843b39b-1d17-4567-9101-ec3eda42f58b
+    name: ミルクホール
+    sources:
+    - url: http://www7a.biglobe.ne.jp/~uso9000/travel/aoihana1-1.htm
+      title: 「青い花」舞台探訪～鎌倉編　その１～
+      last_visit: "2017-05-14"
+
+  - id: 5a564c4e-57b7-4e97-9713-6b70ebf165de
+    name: 藤が谷女学院の坂道
+    sources:
+    - url: http://www7a.biglobe.ne.jp/~uso9000/travel/aoihana1-1.htm
+      title: 「青い花」舞台探訪～鎌倉編　その１～
+      last_visit: "2017-05-14"
+
+- product_id: f2de35be-60f0-494e-a8e9-376f8f35a1f5
+  product_name: 白衣性愛情依存症
+  places:
+  - id: 141463d4-bbe3-4cda-b40a-edf58095cdf9
+    name: ゆうひの丘
+    sources:
+    - url: http://hakuai.kogado.com/blog/1072/
+      title: 銭洗弁財天～神庫～聖蹟百合ヶ丘ツアー③ | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+  - id: f6949e47-039f-45a7-85e6-22fbad399e07
+    name: 聖蹟百合ヶ丘駅
+    sources:
+    - url: http://hakuai.kogado.com/blog/1072/
+      title: 銭洗弁財天～神庫～聖蹟百合ヶ丘ツアー③ | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+  - id: 27b6e998-89e3-41d6-b92c-2cf229f8caf3
+    name: 通学路２
+    sources:
+    - url: http://hakuai.kogado.com/blog/1072/
+      title: 銭洗弁財天～神庫～聖蹟百合ヶ丘ツアー③ | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+  - id: 77db3f07-98ea-4fee-9c3c-cf52cd2bf6b1
+    name: 通学路１（もうちょい奥）
+    sources:
+    - url: http://hakuai.kogado.com/blog/1072/
+      title: 銭洗弁財天～神庫～聖蹟百合ヶ丘ツアー③ | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+    - url: http://hakuai.kogado.com/blog/402/
+      title: ロケ地：？？？ | 白衣性愛情依存症 -白愛-
+      last_visit: "2017-05-14"
+
+- product_id: ba4065a6-baf3-44e0-9f44-dbe69469652d
+  product_name: ねのかみ 京の都とふたりの姫騎士
+  places:
+  - id: 02b4b1c8-1417-468d-8d85-2368bdae0e1b
+    name: ダイクロー
+    sources:
+    - url: https://twitter.com/fenrirvier/status/832243344252153856
+      title: ふぇんりるふぃーあさんのツイート: "醍醐駅２Ｆダイゴロー西館(劇中：ダイクロー北館)\n地下鉄東西線の終点駅。\n京姫本編では、親友との出会いから涙腺決壊までサポートする\nプレイヤーの皆さんが様々な感情を抱く場所。\n醍醐寺までは徒歩で行けます。 https://t.co/dyhvrehYaY"
+      last_visit: "2017-05-15"
+  - id: 61685878-51e3-418e-8efc-b406adeed5fe
+    name: 都部の隠れ里
+    sources:
+    - url: https://twitter.com/fenrirvier/status/832575731800559616
+      title: ふぇんりるふぃーあさんのツイート: "この二人のキスシーンの場所は、\n宇治と京都市、滋賀県の間くらいに実際にある村の中心部。\n醍醐寺から歩いていくのはゲーム中と同じく片道二時間ほど。 https://t.co/oob37zlsl2"
+      last_visit: "2017-05-15"
+
+
+- product_id: 051f617a-bcb6-4c0a-8b18-16e64372dca1
+  product_name: ねのかみ 京の都とふたりの姫騎士 後編
+  places:
+  - id: 5629148d-34e1-4a4a-83c8-5e8c306f727f
+    name: ED
+    sources:
+    - url: https://twitter.com/fenrirvier/status/834791580007485440
+      title: ふぇんりるふぃーあさんのツイート: "清水寺\nEDの最後の絵の場所。\nstudio-outline様\nhttps://t.co/pyq0FE62lM\nに絵として起こしてもらっています。(バレ回避済)\nこのEDの最初のセリフ、最後のセリフが京姫のＱとＡです。\n背景の隅々、そこに立つキャラ全てにこだわったシーンです。 https://t.co/DEuE8m77zi"
+      last_visit: "2017-05-15"
